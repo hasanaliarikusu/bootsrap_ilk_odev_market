@@ -36,11 +36,14 @@ telefon market sitesi bootstrap yapılı
           </ul>
         </div>
       </nav>
+            <h2 class="text-mor">Telefon Alışverişinin Tek Adresi</h2>
+      <img src="eskitelefon.jpg" alt="Tüm telefon modelleriyle hizmetinizyediz.">
+          <p style="color:red">Tüm telefon modelleriyle hizmetinizdeyiz.</p>
       <div class="jumbotron">
-        <h1 class="display-4">Hello, world!</h1>
-        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+        <h1 class="display-4">Telefon Alışverişinin Tek Adresi</h1>
+        <img src="eskitelefon.jpg" alt="Tüm telefon modelleriyle hizmetinizyediz.">
         <hr class="my-4">
-        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+        <p>Tüm telefon modelleriyle hizmetinizdeyiz.</p>
         <a class="btn btn-primary btn-lg" href="bizkimiz.html" role="button">Hakkımızda</a>
       </div>
     <!-- Optional JavaScript; choose one of the two! -->
