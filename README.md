@@ -35,10 +35,7 @@ telefon market sitesi bootstrap yapılı
             </li>
           </ul>
         </div>
-      </nav>
-            <h2 class="text-mor">Telefon Alışverişinin Tek Adresi</h2>
-      <img src="eskitelefon.jpg" alt="Tüm telefon modelleriyle hizmetinizyediz.">
-          <p style="color:red">Tüm telefon modelleriyle hizmetinizdeyiz.</p>
+    </nav>
       <div class="jumbotron">
         <h1 class="display-4">Telefon Alışverişinin Tek Adresi</h1>
         <img src="eskitelefon.jpg" alt="Tüm telefon modelleriyle hizmetinizyediz.">
